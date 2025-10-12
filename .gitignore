@@ -1,0 +1,35 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+venv/
+env/
+
+.env
+*.json
+*.key
+*.pem
+
+.DS_Store
+Thumbs.db
+.idea/
+.vs/
+
+.vscode/
+*.swp
+
+# Docker 
+*.tar
+*.gz
+
+# Tests 
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Misc
+*.bak
+*.tmp
